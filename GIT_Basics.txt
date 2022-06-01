@@ -1,0 +1,96 @@
+
+			|||GIT and GIT HUB Basics||
+
+
+Here will be described how to set up and use GIT and GIT HUB.
+
+[[INITIATE]]
+First we navigate to folder where is the code Files we wanna tracken. [whit cd <Folder name]>.
+
+We type there 
+
+	git init
+
+To initiate version corntrol in the folder hidden Folde '.git is created' .
+
+We are telling who makes changes whit mail and username
+
+	git config --global user.email 'mail'
+	git config --global user.name  'username'
+
+In GIT   we have three stages 
+	
+	>local area
+
+	>staging area
+		
+	>commited
+
+To add file to >staging area we are using command
+
+	git add <file name>
+
+	/if we want to add all files from the folder we use/
+	
+	git add .
+
+If we want to remove the file from >staging area we use the command:
+
+	git rm --cached <file name >
+
+After file is change and we want to commit (to safe the change to 'Time line') we use:
+
+	git commit -m "msg, remark"
+
+[[BRRANCHES]]
+
+Variation of the code 'offbranching' 
+Creating new Branch whit command:
+
+	git checkout -b <branch name>
+
+Now new branch is created
+
+We navigate between Branhes whit:
+
+	git checkout <branch name[where we wanna go]>
+
+To see which Branches we have we use:
+
+	git branch
+
+		>we can see in which Branch we are  at moment so that 
+		 in front of the Branch is a *
+			main
+		       *master [we are in master Branch]
+			code 
+
+[[MERGE]]
+
+We can merge two Branches together whit command 
+
+	git merge <name of the Branch where from we want to import chages>
+
+Oftentimes we can see 'merge conflict' if two files whit the same name have diffrent content inside.
+
+[[REMOTE REPOSITORY]]
+
+We can rename Branch whit:
+	
+	git branch -M <new Branch name>
+
+To ad Branch for remote repo.
+
+	git remote origin <URL>
+		    ||
+                    \/
+             |new Branch name 'origin' is most common|
+
+	git push -u origin main
+        	      |     | 
+            	    Where  From which Branch we push
+
+
+To update changes from remote Repo in Local Repo.
+
+	git pull
