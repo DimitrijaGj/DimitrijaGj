@@ -79,7 +79,7 @@ We can rename Branch whit:
 	
 	git branch -M <new Branch name>
 
-To ad Branch for remote repo.
+To add Branch for remote repo.
 
 	git remote origin <URL>
 		    ||
