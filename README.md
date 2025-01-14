@@ -7,7 +7,7 @@
 ## 📄 Resume
 
 <details>
-  <summary>📦 Packages</summary>
+  <summary> Expirience </summary>
 
 
 
