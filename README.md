@@ -3,7 +3,7 @@
 - 💻 I’m currently learning Automation with Ansible and Python
 - 🔎 I’m looking to collaborate on small automation Python projects and Dev Ops related topics.
 - ![protonmail](https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white) to reach me dimitrija_gjoshev@proton.me
-- ![hub](https://github-readme-stats.vercel.app/api/top-langs/?username=DimitrijaGj)
+![activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DimitrijaGj&theme=cobalt)![hub](https://github-readme-stats.vercel.app/api/top-langs/?username=DimitrijaGj&theme=cobalt) 
 
 ## 📄 Resume
 
