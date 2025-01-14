@@ -8,7 +8,9 @@
 
 <details>
   <summary> Expirience </summary>
-
+  🧑‍💻 **DevOps Engineer**  
+  📅 Dec/2024 – moment  
+  📍 reuter.com – Mönchengladbach/NRW, Germany  
 
 
 </details>
