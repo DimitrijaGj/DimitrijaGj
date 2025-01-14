@@ -1,4 +1,4 @@
-- 🖐️ Hi, I’m @DimitrijaGj
+# 🖐️ Hi, I’m @DimitrijaGj
 - 👀 I’m interested in Dev Ops and Automation
 - 💻 I’m currently learning Automation with Ansible and Python
 - 🔎 I’m looking to collaborate on small automation Python projects and Dev Ops related topics.
