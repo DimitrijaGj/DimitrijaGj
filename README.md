@@ -8,10 +8,10 @@
 
 <details>
   <summary> Expirience </summary>
-  -🧑‍💻 **DevOps Engineer**  
+ - 🧑‍💻 **DevOps Engineer**  
    📅 Dec/2024 – moment  
    📍 reuter.com – Mönchengladbach/NRW, Germany  
-![ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
+   ![ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
 
 </details>
 
