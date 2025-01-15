@@ -1,14 +1,21 @@
 # 🖐️ Hi, I’m Dimitrija Gjoshev
 - 👀 I’m interested in Dev Ops and Automation
-- 💻 I’m currently learning Automation with Ansible and Python  
+- 💻 I’m currently learning Automation with Ansible and Python
+       
+![hakerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) == > https://www.hackerrank.com/profile/zimzelen929
 
 ### My Workstation  
 ![os](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)  ![alacritty](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white) ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
-![proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white) ![brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
+![proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white) ![brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white) ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ###  To Reach Me
 ![protonmail](https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white) --> **dimitrija_gjoshev@proton.me**
-![activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DimitrijaGj&theme=cobalt)![hub](https://github-readme-stats.vercel.app/api/top-langs/?username=DimitrijaGj&theme=cobalt) 
+
+<div class="center">
+
+  ![activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DimitrijaGj&theme=cobalt)![hub](https://github-readme-stats.vercel.app/api/top-langs/?username=DimitrijaGj&theme=cobalt) 
+
+</div>
 
 ## 📄 Resume
 
@@ -25,12 +32,12 @@
 📅 Okt/2021-Dec/2023  
 📍 trivago – Düsseldorf/NRW, Germany
 
-![macos](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) ![jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![vmware](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white) ![vmware](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
+![macos](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![vmware](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white) ![vmware](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
 
  - 🧑‍🏭 **Problem Solver**  
 📅 Apr/2017 – Okt/2021  
 📍 Zalando – Mönchengladbach/NRW, Germany  
-![jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) 
+![jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) ![win](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 </details>
 
 
