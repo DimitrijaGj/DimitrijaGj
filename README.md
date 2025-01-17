@@ -1,7 +1,8 @@
 # 🖐️ Hi, I’m Dimitrija Gjoshev
 - 👀 I’m interested in Dev Ops and Automation
 - 💻 I’m currently learning Automation with Ansible and Python
-       
+  
+![gcp](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  == >  https://www.cloudskillsboost.google/public_profiles/995e8494-687a-4394-baa2-f074fc45fdfb         
 ![hakerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) == > https://www.hackerrank.com/profile/zimzelen929
 
 ### My Workstation  
