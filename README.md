@@ -18,6 +18,14 @@
 
 </div>
 
+## 📄 Education
+<details>
+  <summary> Education </summary>
+  
+ - 💻 **M.Sc Practical Informatic**  
+📅 Apr/2025 – moment  
+📍 FernUni Hagen Faculty of Informatic and Mathematic – Hagen/NRW, Germany  
+
 ## 📄 Resume
 
 <details>
