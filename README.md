@@ -31,9 +31,12 @@
 ## 📄 Resume
 <details>
   <summary> Expirience </summary>
+  - 💻 **Infrastructure developer**  
+📅 Jan/2026 – moment  
+📍 Famedly – Berlin, Germany
 
   - 💻 **DevOps Engineer**  
-📅 Nov/2025 – moment  
+📅 Nov/2025 – Jan/2026  
 📍 Intentive – Mönchengladbach/NRW, Germany
   
 ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![gitlab](https://img.shields.io/badge/gitlab-red?style=for-the-badge&logo=gitlab)  ![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) ![docker-compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
